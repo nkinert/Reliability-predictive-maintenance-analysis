@@ -7,7 +7,7 @@ real industrial sensor data.
 
 ## Author
 Nathan Kinert | 25+ years Industrial Reliability | MLA | MLT  
-IIoT Sensor Implementation | O&G | Offshore Drilling
+IIoT | Predictive Maintenance | Data Analytics | Heavy Industrial
 
 ## What This Project Does
 - Loads and processes 984 time-series vibration snapshots
